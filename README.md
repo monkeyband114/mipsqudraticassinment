@@ -1,0 +1,2 @@
+# mipsqudraticassinment
+mips
